@@ -1,0 +1,190 @@
+body {
+    background-color: rgb(101, 101, 179);
+    color: white;
+}
+
+.Hi {
+    position: fixed;
+    right: 50%;
+    text-align: justify;
+}
+
+.hello {
+    position: absolute;
+    left: 50%;
+    width: 50%;
+
+}
+
+.azerty {
+    font-size: larger;
+    display: block;
+    margin-right: 50%;
+    text-align: justify;
+}
+
+.pro {
+    padding: auto;
+    font-size: small;
+}
+
+.ins {
+    font-weight: bold;
+    font-size: larger;
+
+}
+
+.Ice {
+    display: flex;
+    justify-content: left;
+    gap: 5%;
+}
+
+.ysn {
+    font-size: larger;
+    font-style: normal;
+    text-align: left;
+    justify-content: left;
+    text-decoration-line: none;
+    color: black;
+    margin-inline: 20px
+}
+
+.zed {
+    text-align: justify;
+    font-size: larger;
+}
+
+.no {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+
+}
+
+.izy {
+    border: 1px solid black;
+    margin-inline: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    color: aquamarine;
+    background-color: black
+}
+
+.ass {
+    border: 1px solid black;
+    margin-inline: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    color: aquamarine;
+    background-color: black
+}
+
+.cava {
+    border: 1px solid black;
+    margin-inline: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    color: aquamarine;
+    background-color: black
+}
+
+.iam {
+    display: flex;
+
+}
+
+.lui {
+    font-size: larger;
+    text-align: justify;
+
+}
+
+.moi {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rouch {
+    font-size: larger;
+    text-align: justify;
+}
+
+.rcr {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+
+}
+
+.tu {
+    border-radius: 15px;
+    margin-inline: 10px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black;
+    color: aquamarine;
+
+}
+
+.ami {
+    border-radius: 25%;
+    border: 1px solid black;
+    margin-inline: 10px;
+    padding: 5px;
+    background-color: black;
+    color: aquamarine;
+
+}
+
+.hrs {
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-inline: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aquamarine;
+}
+
+.lo {
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-inline: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aquamarine;
+
+}
+
+.yas {
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-inline: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aquamarine;
+}
+
+.me {
+    border-radius: 15px;
+    border: 1px solid black;
+    margin-inline: 5px;
+    padding: 5px;
+    background-color: black;
+    color: aquamarine;
+}
+
+.ctn {
+    font-size: larger;
+    text-align: justify;
+}
+
+.real {
+    font-size: large;
+}
+
+.ta {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
